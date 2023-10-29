@@ -124,7 +124,7 @@ li{
     align-items: center;
 }
 
-/* #wrapper--certifications_items{
+#wrapper--certifications_items{
     display: flex;
     flex-wrap: wrap;
     gap: 1em;
@@ -136,7 +136,7 @@ li{
     border-radius: 5px;
     padding: 0.5em 1em;
     align-items: center;
-} */
+}
 
 .card--project{
     padding-top: 1em;
