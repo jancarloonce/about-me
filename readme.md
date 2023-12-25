@@ -1,4 +1,4 @@
-# JAN CARLO ONCE Digital Resume
+# JAN CARLO ONCE Digital Resume 
 
 A digital resume website built based on the content from my personal REAL [resume](./assets/JanCarloOnce_CV_083023.pdf)
 
